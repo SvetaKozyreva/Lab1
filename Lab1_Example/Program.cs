@@ -11,7 +11,7 @@
             {
                 if (char.IsLetter(s[i])) k++;
             }
-            Console.WriteLine("k = ", k);
+            Console.WriteLine(k);
         }
     }
 }
