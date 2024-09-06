@@ -6,6 +6,8 @@ namespace Lab1_V12
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
             //task1
             string str = "gaaafddr.gav.baagf.v";
             char letter = 'a';
