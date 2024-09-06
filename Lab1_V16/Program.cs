@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Lab1_V16
+namespace Lab1_V12
 {
     internal class Program
     {
